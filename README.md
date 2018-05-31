@@ -1,3 +1,4 @@
+# Opening branch for Nikkhiel Karkhanis
 # AgroChain
 
 This repository contains the code for an Agricultural Supply Chain Dapp With Micro-Finance functionality, coded using **Truffle** and **Solidity**. The backend blockchain is a private Ethereum network setup using **Geth(go-ethereum)** and the interactions are made possible by **Web3** javascript library.
